@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sortFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sort_button_title">Sortuj</string>
+    <string name="bubble_description">Sortowanie bąbelkowe: Prosty algorytm sortowania oparty na porównaniach.</string>
+    <string name="radio_insert">Przez wstawianie</string>
+    <string name="radio_bubble">Bąbelkowe</string>
+    <string name="input_hint">Wprowadź liczby oddzielone przecinkami</string>
+    <string name="unsorted_numbers">Przed sortowaniem %1$s</string>
+    <string name="sorted_numbers">Po sortowaniu %1$s</string>
+    <string name="button_back">Powrót</string>
+    <string name="sort_text">Po sortowaniu</string>
+    <string name="unsort_text">Przed sortowaniem</string>
+</resources>

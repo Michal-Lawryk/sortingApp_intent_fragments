@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sortIntent</string>
+    <string name="unsorted_numbers">Przed sortowaniem: %1$s</string>
+    <string name="sorted_numbers">Po sortowaniu: %1$s</string>
+    <string name="sort_button">Sortuj</string>
+    <string name="input_hint">Wprowadź liczby oddzielone przecinkami</string>
+    <string name="radio_bubble">Bąbelkowe</string>
+    <string name="radio_insert">Przez wstawianie</string>
+    <string name="start_view_text">Sortowanie bąbelkowe: Prosty algorytm sortowania oparty na porównaniach.</string>
+    <string name="button_back">Wróć</string>
+</resources>
